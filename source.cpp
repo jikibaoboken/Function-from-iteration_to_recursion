@@ -27,14 +27,6 @@ int f(int n, int  k,int start,vector<int>p)
 		}
 	}
 }
-/*
-vector<int>  f2(int n, int toPick, vector<int> arr)
-{
-	if (0 == toPick)
-	{
-		display(arr);
-	}
-}*/
 
 int main()
 {
